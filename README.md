@@ -20,3 +20,6 @@ A simple tool used to change the story language of Atelier Games by updating PAC
    ```
 9. Enter the path where you have installed the game, ex: D:\SteamLibrary\steamapps\common\Atelier Sophie 2
 10. Enjoy
+
+## Video tutorial
+[![Watch the video](https://i.ytimg.com/vi/HCKo1Bbe_g4/hqdefault.jpg)](https://youtu.be/HCKo1Bbe_g4)
