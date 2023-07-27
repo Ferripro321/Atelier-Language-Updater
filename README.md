@@ -1,4 +1,4 @@
-# Atelier-Language-Updater
+# Atelier Language Updater
 A simple tool used to change the story language of Atelier Games by updating PACK01.PAK with a MOD folder that contains the text of the game translated.
 
 # How to use this tool?
