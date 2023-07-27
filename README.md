@@ -15,7 +15,7 @@ A simple tool used to change the story language of Atelier Games by updating PAC
 8. Navigate with cmd to the folder of **Atelier Language Updater**
    
    ```
-   cd <PATH_WHERE_YOU_HAVE_ATELIER_LANGUAGE_UPDATER>
+   cd "<PATH_WHERE_YOU_HAVE_ATELIER_LANGUAGE_UPDATER>"
    ```
 9. Open Main.py
    
